@@ -3,7 +3,7 @@ Modified Gale-Shapley Stable Matching Algorithm
 
 ## Team Members
 - Jarren Shaw-Flores
--
+- Hector Lopez Onofre
 -
 -
 
